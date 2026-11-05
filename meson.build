@@ -7,8 +7,8 @@ gtkmm_dep = dependency('gtkmm-4.0')
 sources = files(
   'main.cc',
   'window.cc',
-  'folderselector.cc',
-  'backgroundslist.cc'
+  'folder_selector.cc',
+  'backgrounds_list.cc'
 )
 
 executable('sway-bg-editor',

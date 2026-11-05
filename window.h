@@ -7,8 +7,8 @@
 #include <gtkmm/button.h>
 #include <gtkmm/cssprovider.h>
 #include <gtkmm/overlay.h>
-#include "backgroundslist.h"
-#include "folderselector.h"
+#include "backgrounds_list.h"
+#include "folder_selector.h"
 
 class Window : public Gtk::Window {
 public:

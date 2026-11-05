@@ -1,5 +1,5 @@
-#include "folderselector.h"
-#include "backgroundslist.h"
+#include "folder_selector.h"
+#include "backgrounds_list.h"
 #include <gtkmm/filedialog.h>
 #include <gtkmm/button.h>
 #include <iostream>
