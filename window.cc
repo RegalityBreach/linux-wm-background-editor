@@ -8,7 +8,7 @@ Window::Window()
     m_backgrounds_list.ReloadBackgrounds(m_folder_selector);
 
     // Put your window setup code here!
-    set_title("Sway Background Editor");
+    set_title("Background Editor");
     set_default_size(500, 400);
 
     m_overlay.set_child(m_scroll_frame);
